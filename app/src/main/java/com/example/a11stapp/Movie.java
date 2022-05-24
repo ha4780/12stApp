@@ -14,6 +14,7 @@ public class Movie {
     String salesChange;
     String salesAcc;
     String audiCnt;
+    String audiInten;
     String audiChange;
     String audiAcc;
     String scrnCnt;
